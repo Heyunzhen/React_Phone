@@ -1,8 +1,12 @@
+## `这是一个React的组件通信的demo`
+
+### `对于不是很了解组件通讯的同学来说这是一个福音，因为这个demo包含了所有的组件通讯的方法，相信聪明的你一定能快速上手`
+
+#### `克隆文件夹，安装依赖 使用行命令npm  start  来查看这个demo`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+### `你可以利用这些来做这些事情`
 
 ### `npm start`
 
@@ -19,11 +23,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+#### `利用 build 来打包`
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -31,11 +31,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### 你只有一次机会可以反编译，这是无法挽回的，编译之后可以来配置config文件等等，加快学习的步伐！
 
 ## Learn More
 
